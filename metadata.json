@@ -1,0 +1,6 @@
+{
+  "name": "MakeupCompare AI",
+  "description": "AI-powered makeup price comparison across Nykaa, Tira, Amazon, Myntra, Flipkart, and Purplle. Find the lowest price and save money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
